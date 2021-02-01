@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0;
+  border: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+
+body {
+  color: #333;
+}
+
+button {
+  margin: 16px;
+  color: #ddd;
+  background: #7519c1;
+  padding: 4px 8px;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #a04be6;
+}
+span {
+  margin-left: 8px;
+}
